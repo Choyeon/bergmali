@@ -6,6 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+django = "*"
+djangorestframework = "*"
+views = "*"
+django-filter = "*"
+mistune = "*"
 
 [requires]
 python_version = "3.9"
